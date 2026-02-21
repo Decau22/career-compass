@@ -24,10 +24,10 @@ const Hero = () => {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6 tracking-tight">
-            Navigate Your x1
+            Navigate Your
             <br />
             <span className="relative inline-block">
-              Career Path
+              Career Path v1
               <svg className="absolute -bottom-2 left-0 w-full" height="8" viewBox="0 0 300 8" fill="none">
                 <path d="M1 5.5C50 2 100 7 150 4C200 1 250 6 299 3.5" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
               </svg>
